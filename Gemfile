@@ -44,6 +44,7 @@ gem "bootsnap", require: false
 
 gem 'hamlit'
 gem 'simple_form', '~> 5.2'
+gem 'i18n-tasks', '~> 1.0', '>= 1.0.12'
 
 # Use Sass to process CSS
 # gem "sassc-rails"
